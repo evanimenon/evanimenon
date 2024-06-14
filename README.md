@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Evani Menon</h1>
+<h1 align="center">Hi 👋, I'm Evani</h1>
 <h3 align="center">:)</h3>
 
 - 🌱 I’m currently learning **DSA,C++**
