@@ -1,12 +1,7 @@
 # Hi, I'm Evani 👋
 
-I'm a Computer Science student at IIIT Delhi, interested in **systems**, **backend development**, and **neuroscience-inspired computing**.  
-I enjoy building things that are clean, efficient, and actually work. Currently learning more about **databases**, **OS internals**, and **full stack development**.
-
-### 🧠 Interests
-- Neuroscience & AI
-- Distributed Systems
-- Human–Computer Interaction
+I'm a Computer Science student at IIIT Delhi, interested in **neuroscience-inspired computing and AI**.  
+I enjoy building things that are clean, efficient, and actually work. 
 
 ### 📫 Reach Me
 - GitHub: **@evanimenon**
