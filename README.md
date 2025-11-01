@@ -1,8 +1,8 @@
-# Hi, I'm Evani 👋
+# Hi, I'm Evani 👋  
 
-I'm a Computer Science student at IIIT Delhi, interested in **neuroscience-inspired computing and AI**.  
-I enjoy building things that are clean, efficient, and actually work. 
+I'm a Computer Science and Biosciences undergrad at IIIT Delhi.  
+Currently curious about how brains learn - and how machines could learn a little more like them.  
 
-### Reach Me
-- GitHub: **@evanimenon**
-- Linkedin: **https://www.linkedin.com/in/evanimenon/**
+### Reach Me 
+GitHub: **@evanimenon**  
+LinkedIn: **linkedin.com/in/evanimenon/**
