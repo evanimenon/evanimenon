@@ -1,7 +1,7 @@
 # Hi! I'm Evani  🦋
 
 I'm a Computer Science and Biosciences undergrad at IIIT Delhi.  
-Currently curious about how brains learn - and how machines could learn a little more like them.  
+Currently curious about how brains learn and how machines could learn a little more like them.
 Check out my [personal portfolio](https://evanimenon.github.io)
 
 ### Reach Me
